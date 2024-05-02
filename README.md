@@ -2,50 +2,6 @@
 **Text classification** is a machine learning technique that assigns a set of predefined **categories** (***labels/classes/topics***) to open-ended text.
 ![image](https://github.com/boodscode237/News_text_sentiment_analysis_and_text_classification/assets/65740750/300e5c1a-c7b6-482f-b4f5-5980b22fe9d5)
 
-The categories depend on the selected dataset and can cover arbitrary subjects. Therefore, text classifiers can be used to organize, structure, and categorize any kind of text.
-
-In general there are 3 types of classification:
-* **Binary** classification
-* **Multi-class** classification
-* **Multi-label** classification
-
-**Binary Classification:**
-
-Binary classification involves categorizing data into two distinct groups or classes. It's a fundamental task in machine learning and NLP, with applications in sentiment analysis, spam detection, and medical diagnosis, among others.
-
-1. **Sentiment Analysis in Social Media:**
-   - Sentiment analysis aims to determine the sentiment or opinion expressed in text data, such as social media posts, product reviews, or customer feedback.
-   - Relevant Article: "Sentiment Analysis in Social Media" by Mike Thelwall. This paper discusses various techniques and challenges in sentiment analysis on social media platforms.
-
-2. **Fake News Detection:**
-   - Fake news detection involves identifying false or misleading information disseminated through various channels, including social media and news websites.
-   - Relevant Article: "Fake News Detection on Social Media: A Data Mining Perspective" by S. Shu et al. This paper explores binary classification methods for detecting fake news on social media platforms.
-
-**Multiclass Classification:**
-
-Multiclass classification assigns each instance to one and only one class from a set of two or more classes. It's commonly used in document categorization, topic classification, and language identification tasks.
-
-1. **Topic Classification:**
-   - Topic classification involves categorizing text documents into predefined topics or categories, such as sports, politics, technology, etc.
-   - Relevant Article: "Text Classification: A Sequential Reading Approach" by Kai Sheng Tai et al. This paper introduces a sequential reading model for multiclass text classification tasks.
-
-2. **Document Categorization:**
-   - Document categorization aims to organize large collections of documents into meaningful categories based on their content.
-   - Relevant Article: "A Survey of Text Classification Techniques" by S. Thummalapenta et al. This survey paper provides an overview of various techniques for multiclass text classification, including traditional machine learning methods and deep learning approaches.
-
-**Multilabel Classification:**
-
-Multilabel classification assigns multiple labels to each instance, allowing for more nuanced and complex categorization. It's used in tasks where instances can belong to multiple categories simultaneously.
-
-1. **Tag Recommendation:**
-   - Tag recommendation involves predicting relevant tags or labels for a given piece of content, such as blog posts, articles, or images.
-   - Relevant Article: "Multi-Label Text Classification with a Mixture Model Trained by EM Algorithm" by Min-Ling Zhang and Zhi-Hua Zhou. This paper presents a mixture model approach trained by the Expectation-Maximization (EM) algorithm for multilabel text classification tasks.
-
-2. **Multi-Label Document Classification:**
-   - Multi-label document classification deals with assigning multiple categories or labels to text documents based on their content.
-   - Relevant Article: "Deep Learning for Multi-Label Text Classification" by X. Zhang et al. This paper explores the use of deep learning techniques, such as Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), for multilabel text classification.
-
-
 ## Text Classification Approaches
 ---
 
