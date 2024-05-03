@@ -1,7 +1,3 @@
-# **Sentiment Analysis for News on Sanctions Against Russia: A Deep Learning Implementation for Text Classification**
-**Text classification** is a machine learning technique that assigns a set of predefined **categories** (***labels/classes/topics***) to open-ended text.
-![image](https://github.com/boodscode237/News_text_sentiment_analysis_and_text_classification/assets/65740750/300e5c1a-c7b6-482f-b4f5-5980b22fe9d5)
-
 ## Text Classification Approaches
 ---
 
